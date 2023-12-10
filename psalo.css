@@ -1,0 +1,36 @@
+.titulo {
+    font-size: 200px;
+    text-align: center;
+}
+.content {
+    display: grid;
+    height: 50vh;
+    grid-template-rows: 10% 90%;
+}
+.content2  {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+#gif {
+    display:none;
+    width: 200px;
+}
+#gif2 {
+    display:none;
+    width: 200px;
+}
+.decisao {
+    text-align: center;
+}
+.psy {
+    text-align: center;
+}
+.amarelo {
+    text-align: center;
+}
+.res {
+    font-size: 30px;
+    text-align: center;
+    border: 2px #000000 solid;
+    display: inline-block;
+}
